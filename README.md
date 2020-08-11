@@ -1,5 +1,5 @@
 # Item List for an Online Store
-![preview](https://drive.google.com/file/d/12ttKK0PbbtEI8QmcItxWRYJ0lNytQPNM/view?usp=sharing)
+
 This is a simple application made with **React**, **Node.Js** and **MySQL**
 
 Features:
