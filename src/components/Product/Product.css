@@ -1,0 +1,10 @@
+.links{
+    text-align: center;
+    text-decoration: none;
+    color: #313131;
+    font-size: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
