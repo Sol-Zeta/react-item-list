@@ -15,4 +15,4 @@ Características:
 - Lista de items
 - Detalle de cada item
 - Paginación
-- Botones para ordenar 
+- Botones para ordenar por diferentes categorías
