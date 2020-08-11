@@ -1,6 +1,6 @@
 # Item List for an Online Store
 
-This is a simple application made with **React**, **Node.Js** and **MySQL**
+This is a simple web application made with **React**, **Node.Js** and **MySQL**
 
 Features:
 - Items List
@@ -9,7 +9,7 @@ Features:
 - Buttons to sort by different categories
 
 
-Una aplicación sencilla hecha con **React**, **Node.Js** y **MySQL**
+Una aplicación web sencilla hecha con **React**, **Node.Js** y **MySQL**
 
 Características:
 - Lista de items
